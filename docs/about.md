@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT
-permalink: /ABOUT/
+title: Test
+permalink: https://hrysovalanti.github.io/hryso.github.io/Test/
 ---
 Hello World
