@@ -17,4 +17,4 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-You can find my work at: [work]:[https://youtu.be/V07U0goW19Q]
+You can find my work at: [work]: [https://youtu.be/V07U0goW19Q]
