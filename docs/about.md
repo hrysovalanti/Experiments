@@ -1,4 +1,4 @@
 layout: page
 title: "ABOUT"
-permalink: https://hrysovalanti.github.io/hryso.github.io/ABOUT
+permalink: /hryso.github.io/Test
 Hello World
