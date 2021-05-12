@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Test
-permalink: /Test/
+permalink: /test/
 ---
+
 Hello World
